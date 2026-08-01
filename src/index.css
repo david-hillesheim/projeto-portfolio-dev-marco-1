@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import "tailwindcss";
+
+@theme {
+    --color-primary: #010409;
+    --color-secondary: #0D1117;
+    
+    --font-title: "PT Serif", serif;
+    --font-text: "Arimo", sans-serif;
+}
