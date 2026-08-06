@@ -3,9 +3,9 @@ import ProjectCard from "./ProjectCard";
 
 export default function Projects() {
     return (
-        <div className="text-center">
+        <div>
             <SectionTitle text="Projetos" />
-            <div className="text-center mt-20 pb-10 flex flex-row gap-5 max-w-[90%] flex-wrap justify-center">
+            <div className="mt-20 pb-10 flex flex-row gap-5  flex-wrap justify-center">
 
                 <ProjectCard 
                     img="/spring.png" 
